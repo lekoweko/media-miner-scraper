@@ -6,14 +6,14 @@ A very MVP scraper for media miner.
 
 In the scrape function, put in the url for the story index page. 
 
-Example: `scrape('https://www.mediaminer.org/fanfic/s/<fandom>-fan-fiction/<story-title>/<story-id>')
+Example: `scrape('https://www.mediaminer.org/fanfic/s/<fandom>-fan-fiction/<story-title>/<story-id>')`
 
 ## Output 
 
 ```
 Title: The Greater Story 
 Rating:[ P - Pre-Teen ]
-Summary: Nothing is what is seems. 
+Summary: Nothing is what it seems. 
 By: User of 10000 Suns
 Anime/Manga: Great Story Fan Fiction
 Genre(s): :Action
